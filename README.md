@@ -1,3 +1,8 @@
+# Índice
+
+- [Biznaga - El Entusiasmo (HTML❌)](https://html-preview.github.io/?url=https://github.com/sashiyalala/lanocuerda.net/blob/feat/biznaga-el-entusiasmo/archivo/Biznaga_El-Entusiasmo/Biznaga_El-Entusiasmo_%20Acordes.htm) - [txt✅](https://raw.githubusercontent.com/sashiyalala/lanocuerda.net/refs/heads/feat/biznaga-el-entusiasmo/archivo/Biznaga_El-Entusiasmo/Biznaga_El-Entusiasmo.txt)
+
+
 # Contexto
 
 El sitio web lacuerda.net no me deja ni registrar una cuenta para subir acordes,
@@ -24,3 +29,4 @@ Pasar (pegar justo después) la URL del archivo HTML al enlace
 
 Ver ejemplo en HTML (versión para imprimir) con *HTML Preview* de Github:
 [🔗click aquí🔗](https://html-preview.github.io/?url=https://github.com/sashiyalala/lanocuerda.net/blob/main/misc/ejemplo-La_Plata-Miedo/html-para-imprimir/MIEDO%2C%20La%20Plata_%20Acordes.htm)
+
