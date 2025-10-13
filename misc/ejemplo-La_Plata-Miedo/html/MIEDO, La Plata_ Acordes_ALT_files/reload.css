@@ -1,0 +1,23 @@
+/*** FULLSCREEN ***/
+#mLeft, #tH2, #tH4, #tH3, #ban728, #tHtools,#mrShare, #mrVideo, #mBot, #ban728b, #t_abajo { display:none }
+#tranCmds { position:fixed; top:35px; right:3px }
+#tExplain { position:fixed; top:36px; right:52px }
+
+#mHead { position:fixed; width:50px; z-index:10; top:0px; right:0px }
+#mHead div { width:50px; float:left }
+#mHead img { display:block; background:#fff; margin:0 auto; width:196px; height:40px; padding:0 10px }
+#mHead div.close { cursor:pointer; background:#c00; width:20px; height:20px; border-radius:10px; margin-top:11px; color:#fff; font:bold 20px/20px arial,helvetica; padding:0; text-align:center; padding-left:0px }
+#mHead div.close:hover {  }
+.mBody { position:absolute; top:15px; left:10px; width:85%; max-width:none }
+#tHead { border-top:10px solid #888; margin-top:17px; padding-top:10px; height:70px; width:1000px; margin-bottom:14px; }
+#tH1 a.r  { color:#060; }
+#tH3 { padding-bottom:0 }
+
+#t_body { font-size:16px; width:100% }
+#t_body a { color:#008; }
+
+#t_body { margin-top:0; border:0; padding-top:0 }
+#t_diag { position:absolute; top:140px; right:80px; display:block; width:200px; height:1000px; -webkit-print-color-adjust:exact; }
+#t_diag img.pPromo { display:none }
+#tDiag2Cont { margin-bottom:10px }
+#t_disc { border-top:1px solid #888; margin-top:10px; padding-top:5px; width:1000px }
